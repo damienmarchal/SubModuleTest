@@ -1,0 +1,6 @@
+[submodule "softrobots"]
+	path = SoftRobots
+	url = git@github.com:SofaDefrost/SoftRobots.git
+[submodule "sofa"]
+	path = sofa
+	url = git@github.com:SofaDefrost/sofa.git
